@@ -1,1 +1,1 @@
-microsoft/mssql-server-linux
+dustynv/ollama:r36.4.0
