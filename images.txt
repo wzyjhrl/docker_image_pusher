@@ -1,1 +1,1 @@
-dustynv/ollama:r36.4.0
+dustynv/mlc:r36.4.0
