@@ -1,1 +1,1 @@
-memcached:alpine
+mariadb:noble
