@@ -1,1 +1,1 @@
-seafileltd/seafile-mc:11.0.13-arm
+memcached:alpine
