@@ -1,1 +1,1 @@
-prometheus/process-exporter:v1.7.0
+ncabatoff/process-exporter:latest
