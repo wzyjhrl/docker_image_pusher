@@ -1,1 +1,4 @@
-ncabatoff/process-exporter:latest
+wise2c/pagoda:v1.3.1
+wise2c/deploy-ui:v1.9.2
+wise2c/playbook:v1.33.0-openeuler-2403-sp1
+wise2c/yum-repo:v1.33.0-openeuler-2403-sp1
