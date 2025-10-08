@@ -1,1 +1,1 @@
-rabbitmq:4.1-management
+docker.getcollate.io/openmetadata/db:1.9.12
