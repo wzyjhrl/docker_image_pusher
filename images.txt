@@ -1,1 +1,1 @@
-docker.getcollate.io/openmetadata/db:1.9.12
+quay.io/external_storage/nfs-client-provisioner:latest
