@@ -1,1 +1,1 @@
-docker.elastic.co/logstash/logstash:8.7.0
+goharbor/prepare:v2.7.3
