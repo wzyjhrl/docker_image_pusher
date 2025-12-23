@@ -1,16 +1,3 @@
-pgvector/pgvector:pg16
-langgenius/qdrant:v1.8.3
-oceanbase/seekdb:latest
-oceanbase/oceanbase-ce:4.3.5-lts
-semitechnologies/weaviate:1.27.0
-nginx:latest
-certbot/certbot
-ubuntu/squid:latest
-langgenius/dify-plugin-daemon:0.5.1-local
-langgenius/dify-sandbox:0.2.12
-redis:6-alpine
-mysql:8.0
-postgres:15-alpine
 langgenius/dify-web:1.11.1
 langgenius/dify-api:1.11.1
 busybox:latest
