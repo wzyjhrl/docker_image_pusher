@@ -1,3 +1,1 @@
-langgenius/dify-web:1.11.1
-langgenius/dify-api:1.11.1
-busybox:latest
+higress-registry.cn-hangzhou.cr.aliyuncs.com/higress/gateway:2.0.7
