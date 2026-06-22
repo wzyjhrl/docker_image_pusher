@@ -1,1 +1,1 @@
-lmsysorg/sglang:dev-cu12-minimax-m3
+gcr.io/google-samples/gb-frontend:v5
