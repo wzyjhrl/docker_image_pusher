@@ -1,1 +1,1 @@
-gcr.io/google-samples/gb-frontend:v5
+docker.io/wnameless/oracle-xe-19c:latest
