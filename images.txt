@@ -1,1 +1,1 @@
-us-central1-docker.pkg.dev/genuine-flight-317411/devel/holmes
+quay.io/soketi/soketi:1.4-16-debian
